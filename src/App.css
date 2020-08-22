@@ -1,0 +1,8 @@
+.App {
+    padding-top: 4rem !important;
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #fafafa;
+}
